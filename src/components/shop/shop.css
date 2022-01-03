@@ -1,0 +1,11 @@
+.shop-area{
+    display:flex;
+    /* padding:0 10px; */
+    background-color:gray;
+}
+.shop-area .product-area{
+    width:70%;
+    background-color:gray;
+    text-align:left;
+    padding:40px;
+}
